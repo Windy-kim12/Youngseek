@@ -5,10 +5,6 @@
 → **의미 기반 검색(RAG)** 으로 질문에 답하며  
 → **지출 요약**과 **대화형 분석**을 제공하는 웹 서비스입니다.
 
-<p align="center">
-  <img src="./assets/youngseek_architecture.png" width="720" alt="YoungSeek Architecture">
-</p>
-
 ---
 
 ## ✨ 주요 기능
